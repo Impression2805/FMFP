@@ -1,2 +1,5 @@
-# FMFP
-PyTorch implementation of our ECCV 2022 paper "Rethinking Confidence Reliability for Failure Prediction"
+## FMFP - Official PyTorch Implementation
+![](./framework.png)
+
+### [ECCV2022] Rethinking Confidence Reliability for Failure Prediction
+Fei Zhu, Zhen Cheng, Xu-Yao Zhang, Cheng-Lin Liu<br>
