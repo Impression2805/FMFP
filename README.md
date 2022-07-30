@@ -20,5 +20,5 @@ python main_fmfp.py
 Our implementation references the codes in the following repositories:
 * <https://github.com/daintlab/confidence-aware-learning>
 
-### Contact
+### Contact for issues
 Fei Zhu (zhufei2018@ia.ac.cn)
