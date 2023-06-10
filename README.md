@@ -21,7 +21,9 @@ python main_base.py
 ```
 python main_fmfp.py
 ```
-
+### Useful links
+A list of papers that studies out-of-distribution (OOD) detection and misclassification detection (MisD)
+* <https://github.com/Impression2805/Awesome-Failure-Detection>
 
 ### Reference
 Our implementation references the codes in the following repositories:
